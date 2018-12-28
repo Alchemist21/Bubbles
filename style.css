@@ -4,6 +4,10 @@ body {
   height: 100%;
 }
 
+h2 {
+  color: white;
+}
+
 #particles-js {
   width: 100%;
   height: 100%;
@@ -18,7 +22,7 @@ body {
 }
 
 a {
-  color: black;
+  color: white;
 }
 
 /* Style all font awesome icons */
