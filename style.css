@@ -15,7 +15,11 @@ body {
   min-height: 100%;
 }
 
-h2 {
+p {
+  color: white;
+}
+
+h2, h4 {
   color: white;
 }
 

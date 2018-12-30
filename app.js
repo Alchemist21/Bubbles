@@ -54,7 +54,7 @@ var options = {"particles":
         },
       "size":
       {
-        "value":15,
+        "value":2,
         "random":true,
         "anim":
         {
@@ -95,7 +95,7 @@ var options = {"particles":
         {
           "onhover":
           {
-            "enable":false,
+            "enable":true,
             "mode":"repulse"
           },
           "onclick":{
