@@ -14,7 +14,7 @@ particlesJS.load('particles-js', 'particles.json', function() {
 
 var options = {"particles":
 {"number":
-{"value":115,
+{"value":150,
 "density":
   {"enable":true,
   "value_area":800
@@ -48,13 +48,13 @@ var options = {"particles":
       "anim":
         {
           "enable":false,
-          "speed":2.5,
+          "speed":10,
           "opacity_min":1,
           "sync":false}
         },
       "size":
       {
-        "value":2,
+        "value":20,
         "random":true,
         "anim":
         {

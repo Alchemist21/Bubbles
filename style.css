@@ -1,5 +1,5 @@
 #particle {
-  background-color:			#0000FF;  /*#6600cc*/
+  background-color:				#00FFFF;  /*#6600cc*/
   position:fixed;
   top:0;
   right:0;
@@ -16,16 +16,16 @@ body {
 }
 
 p {
-  color: white;
+  color: black;
 }
 
 h2, h4 {
-  color: white;
+  color: black;
 }
 
 
 a {
-  color: white;
+  color: black;
 }
 
  /* Style all font awesome icons */
