@@ -14,7 +14,7 @@ particlesJS.load('particles-js', 'particles.json', function() {
 
 var options = {"particles":
 {"number":
-{"value":150,
+{"value":110,
 "density":
   {"enable":true,
   "value_area":800
@@ -48,8 +48,8 @@ var options = {"particles":
       "anim":
         {
           "enable":false,
-          "speed":10,
-          "opacity_min":1,
+          "speed":20,
+          "opacity_min":7,
           "sync":false}
         },
       "size":
@@ -59,7 +59,7 @@ var options = {"particles":
         "anim":
         {
         "enable":false,
-        "speed":20,
+        "speed":10,
         "size_min":0.1,
         "sync":false}
         },
@@ -74,7 +74,7 @@ var options = {"particles":
         "move":
         {
           "enable":true,
-          "speed": 10,
+          "speed": 15,
           "direction":"none",
           "random":true,
           "straight":false,
@@ -99,7 +99,7 @@ var options = {"particles":
             "mode":"repulse"
           },
           "onclick":{
-            "enable":true,
+            "enable":false,
             "mode":"repulse"
           },
           "resize":true
@@ -120,7 +120,7 @@ var options = {"particles":
             "size":20,
             "duration":2,
             "opacity":8,
-            "speed":3
+            "speed":100
           },
             "repulse":
             {
